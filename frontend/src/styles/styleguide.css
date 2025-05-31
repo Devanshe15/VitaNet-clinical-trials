@@ -1,0 +1,16 @@
+
+:root {
+    --dark: rgba(25, 26, 35, 1);
+    --body-14px-font-family: "Inter", Helvetica;
+    --body-14px-font-weight: 400;
+    --body-14px-font-size: 14px;
+    --body-14px-letter-spacing: 0px;
+    --body-14px-line-height: 150%;
+    --body-14px-font-style: normal;
+    --button-14px-font-family: "Inter", Helvetica;
+    --button-14px-font-weight: 600;
+    --button-14px-font-size: 14px;
+    --button-14px-letter-spacing: 0px;
+    --button-14px-line-height: 100%;
+    --button-14px-font-style: normal;
+    --collection-1-gradient: rgba(50, 163, 229, 1); }
